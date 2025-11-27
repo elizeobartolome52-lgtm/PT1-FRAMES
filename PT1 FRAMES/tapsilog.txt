@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Our Profile</title>
+</head>
+<body>
+<a href="https://images.yummy.ph/yummy/uploads/2018/01/best-tapa-ever-1.jpg" name="TAPSILOG" height="500px" width="500px" alt="TAPSILOG"></a>
+<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCzbqYDMRauq2XZtj7zmzzalO7r6yYOdxfUw&s.jpg" name="TAPSILOG" height="500px" width="500px" alt="TAPSILOG"></a>
+<a hrefhttps://www.iankewks.com/wp-content/uploads/2024/01/IMG_6545.jpg" name="TAPSILOG" height="500px" width="500px" alt="TAPSILOG"></a>
+
+</body>
+</html>
